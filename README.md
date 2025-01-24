@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Devlopment**
 
-- 👨‍💻 All of my projects are available at [[https://shivamsingh0111.github.io/]](https://github.com/ShivamSingh0111/shivamsingh.github.io)
+- 👨‍💻 All of my projects are available at [[[https://shivamsingh0111.github.io/]](https://shivamsingh0111.github.io/shivamsingh.github.io/)]
 
 - 💬 Ask me about **MEARN**
 
